@@ -1,0 +1,31 @@
+.rvts46 {
+  font-style: italic;
+  color: #3465A4;
+}
+table,tr,td,tbody,thead{
+padding:0;
+	padding:0;
+	margin:0;
+	font-size:9pt;
+	font-family:Verdana,Tahoma,Helvetica,Arial;
+}
+.d_doc{font-size:150%;text-align:center;font-weight:bold;margin-top:10px;white-space:pre;}
+.d_raw{margin-left:100px;text-align:left;}
+.d_izd{font-size:110%;text-align:center;font-weight:bold;margin-top:10px;margin-bottom:10px;}
+.d_tit{font-size:110%;text-align:center;font-weight:bold;margin-top:10px;margin-bottom:10px;}
+.d_roz{font-size:110%;text-align:center;font-weight:bold;margin-top:10px;margin-bottom:10px;}
+.d_cha{font-size:106%;text-align:center;font-weight:bold;margin-top:10px;margin-bottom:10px;}
+.d_gla{font-size:103%;text-align:center;font-weight:bold;margin-top:10px;}
+.d_sta{text-indent:30px;font-weight:bold;margin-top:10px;}
+.d_par{text-align:justify;text-indent:30px;margin-top:10px;}
+.d_ppa{padding:0px;margin:0px;spacing:0px;text-indent:0px;}
+.d_sno{font-style:italic;text-indent:10px;}
+.d_lef{text-align:right;margin:2px;}
+.d_com{color:#6f0000;font-style:italic;text-align:center}
+.d_pid{margin:0px;font-family:Helvetica;font-weight:bold;font-style:italic;}
+.d_dat{text-align:center;font-weight:bold;font-style:italic;}
+.d_pid{text-align:center;font-style:italic;font-weight:bold;width:70%;}
+.d_a{border-bottom:dashed 1px #627496;}
+.d_pst{margin:0px;margin-left:30px}
+.d_drt{font-style:italic;font-weight:bold;}
+.d_bla{text-align:left;margin-top:0;margin-bottom:0;}
